@@ -63,7 +63,3 @@ Actually Kubernetes supports variety of different networks of plugins that can i
 - It is also a good idea to verify that the Flannel pods are up and running. Run this command to get a list of system pods: <br/>
 `kubectl get pods -n kube-system` <br/>
 You should have three pods with flannel in the name, and all three should have a status of Running.
-## Day 1 Learn Checklist:
-- [x] Kubernetes Fundamental
-- [x] Setup Three Nodes ( Kubernetes Master, Kube Node 1, Kube Node 2)
-- [x] Setup Kubernetes tools ( kubeadm, kubelet, kubectl ) 
