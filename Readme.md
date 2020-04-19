@@ -10,3 +10,6 @@
 - [x] Get basic understanding about what is Containers and Pods
 - [x] Networking in Kubernetes
 - [x] Kubernetes Basic Components
+- [x] Kubernetes Deployments
+- [x] Kubernetes Services
+- [x] Hands-on deploy simple application
